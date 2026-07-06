@@ -1,7 +1,7 @@
 # Cloud-IT-fogalmak
 ## Skálázás, terheléselosztás, hibatűrés
-A legkedvesebb témakör az alapfogalmak közül **terheléselosztás (load balancing)** és a **skálázás (scaling)**  fontossága. Ezt a témakört már érintettem a gyakorlatban is, hoztam létre virtuális szervert Azure-ben és terheléselosztót integráltam, hogy a rendszer kapacitása igény szerint csökkenthető/növelhető legyen akár a megnövekedett forgalom/felhasználók száma miatt vagy legyen szó napszakos vagy szezonális terhelésről vagy az üzleti igények bővülésével több feladatot ellátó szervernek. Úgy tudjuk támogatni a fejlődést, hogy alapjában véve nem kell teljesen új rendszert tervezni. 
-Ezek közül a két leginkább alapvető megoldás: 
+A legkedvesebb témakör az alapfogalmak közül a **terheléselosztás (load balancing)** és a **skálázás (scaling)**  fontossága. Ezt a témakört már érintettem a gyakorlatban is, hoztam létre virtuális szervert Azure-ben és terheléselosztót integráltam, hogy a rendszer kapacitása igény szerint csökkenthető/növelhető legyen akár a megnövekedett forgalom/felhasználók száma miatt vagy legyen szó napszakos vagy szezonális terhelésről vagy az üzleti igények bővülésével több feladatot ellátó szerverről. Nagyszerűsége, hogy úgy tudjuk támogatni a fejlődést, hogy alapjában véve nem kell teljesen új rendszert tervezni. 
+A két alapvető megoldás skálázáshoz: 
 
 *1. Vertikális skálázás* a szerver gép teljesítmény növelése (CPU,RAM).
 
