@@ -6,4 +6,4 @@ A legkedvesebb témakör az alapfogalmak közül a **skálázás (scaling)**  fo
 
 *2. Horizontális skálázás* több gép bevonása párhuzamosan, elosztva a terhelést.
 
-Ami ebben a legjobban tetszik az előretervezés és tudatos felépítése, hogy egyszerre legyen magas rendelkezésreállás *(HA) és olyan tartalék elemek bevonás, amely egy hiba esetén is a szerver biztonságos működését támogatja *(redudancia). 
+Ami ebben a legjobban tetszik az előretervezés és tudatos felépítése, hogy egyszerre legyen magas rendelkezésreállás *(HA)* és olyan tartalék elemek bevonás, amely egy hiba esetén is a szerver biztonságos működését támogatja *(redudancia). 
